@@ -2,7 +2,7 @@ name: attend_pulse
 description: "A college routine timetable and self-attendance tracking app for Android."
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 0.1.0-beta+1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
