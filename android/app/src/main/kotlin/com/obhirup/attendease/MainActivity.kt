@@ -1,4 +1,4 @@
-package com.attendpulse.attend_pulse
+package com.obhirup.attendease
 
 import io.flutter.embedding.android.FlutterActivity
 
